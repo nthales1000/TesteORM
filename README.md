@@ -6,6 +6,6 @@
 ![Tela](images/Tela 1.png)
 
 ## Teste
-![Teste](images/teste1.png)
+![Teste](Supermercado-ORM-Test/imagens/teste1.png)
 
 
