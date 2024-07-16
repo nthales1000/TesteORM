@@ -3,16 +3,16 @@
 # CRUD Operações para a Classe Produto
 
 ## Create
-![Create](images/create.png)
+![Create](Supermercado-ORM-Teste/imagens/Create.png)
 
 ## Retrieve
-![Retrieve](images/retrieve.png)
+![Retrieve](Supermercado-ORM-Teste/imagens/Retrive.png)
 
 ## Update
-![Update](images/update.png)
+![Update](Supermercado-ORM-Teste/imagens/Update.png)
 
 ## Delete
-![Delete](images/delete.png)
+![Delete](Supermercado-ORM-Teste/imagens/Delete.png)
 
 ## Resultado
-![Resultado](images/delete.png)
+![Resultado](Supermercado-ORM-Teste/imagens/Resultado.png)
