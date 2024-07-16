@@ -3,7 +3,7 @@
 # CRUD Operações para a Classe Produto
 
 ## Tela
-![Tela](Supermercado-ORM-Teste/imagens/Tela 1.png)
+![Tela](Supermercado-ORM-Teste/imagens/Tela1.png)
 
 ## Teste
 ![Teste](Supermercado-ORM-Teste/imagens/teste1.png)
