@@ -2,10 +2,14 @@
  [LAB] AT-07-16: Implementar ORM de uma classe Modelo do Projeto (prazo até 22/07)
 # CRUD Operações para a Classe Produto
 
-## Tela
-![Tela](Supermercado-ORM-Teste/imagens/Tela1.png)
+## Create
+![Create](images/create.png)
 
-## Teste
-![Teste](Supermercado-ORM-Teste/imagens/teste1.png)
+## Retrieve
+![Retrieve](images/retrieve.png)
 
+## Update
+![Update](images/update.png)
 
+## Delete
+![Delete](images/delete.png)
