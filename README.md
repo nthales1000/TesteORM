@@ -13,3 +13,6 @@
 
 ## Delete
 ![Delete](images/delete.png)
+
+## Resultado
+![Resultado](images/delete.png)
